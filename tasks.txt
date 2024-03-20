@@ -1,0 +1,37 @@
+DONE
+EEG Characterization
+Initial Dataset Collection
+Circuit Design and Order
+EEG Signal Processing Techniques
+AI Model Survey
+AI Model Creation
+AI Model Evaluation
+Installation of OS on Raspberry Pi
+
+PHASE 0
+0 - Data Collection Further All of us  		     - ongoing
+
+PHASE 1
+1 - Port to Raspberry Pi Naqi/Usama    		     - 16th Feb
+2 - Live Classification Adil           		     - 16th Feb
+3 - AI Model Deployment Adil/Naqi                    - 16th Feb
+PHASE 2
+3 - Tf Lite and Tf Lite Micro for model optimization - 19th Feb - 3rd March
+4 - Diverse Dataset (more types of signals)          - 19th Feb - 23rd Feb
+5 - Robotic Arm Printing                             - N/A
+6 - Product Enclosure Design			     - 19th Feb - 26th Feb
+7 - API Development				     - 19th Feb - 29th Feb
+8 - Product Enclosure Printing			     - 26th Feb - 3rd March
+
+PHASE 3
+9 - Assembling the Project
+10- Testing and Tuning
+11- Finish Documentation
+12- Writing Paper 
+
+Additional
+13- Optimize Model for Size
+14- Optimize Model for Speed
+15- Look for MCUs that will be able to deploy model 
+
+
